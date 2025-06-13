@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/mlruns/0/110ec3b9f7e84307b157f4ddaa70059d/artifacts
+end_time: 1749774992589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 110ec3b9f7e84307b157f4ddaa70059d
+run_name: puzzled-snail-742
+run_uuid: 110ec3b9f7e84307b157f4ddaa70059d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749774973426
+status: 4
+tags: []
+user_id: codespace
