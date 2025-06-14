@@ -1,7 +1,0 @@
-digest: 7f01fa9f
-name: dataset
-profile: '{"num_rows": 65946, "num_elements": 65946}'
-schema: null
-source: '{"tags": {"mlflow.user": "codespace", "mlflow.source.name": "02-experiment-tracking/train.py",
-  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "1d8512221003f51cb975ecb1ef7eb9add6a1a5ea"}}'
-source_type: code

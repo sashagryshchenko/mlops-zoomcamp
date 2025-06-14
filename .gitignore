@@ -172,3 +172,23 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# MLflow tracking and artifacts
+mlruns/
+artifacts/
+backend.db
+backend.db-journal
+
+# Notebooks
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Outputs and temporary data
+output/
+output/*
+*.log
+
+# Model files
+*.pkl
+*.joblib
