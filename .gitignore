@@ -192,3 +192,7 @@ output/*
 # Model files
 *.pkl
 *.joblib
+
+# Data files
+data/
+data/*
